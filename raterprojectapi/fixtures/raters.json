@@ -1,0 +1,82 @@
+[
+    {
+        "model": "raterprojectapi.rater",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "bio": "This is a bio."
+        }
+    },
+    {
+        "model": "raterprojectapi.rater",
+        "pk": 2,
+        "fields": {
+            "user": 2,
+            "bio": "This is a bio."
+        }
+    },
+    {
+        "model": "raterprojectapi.rater",
+        "pk": 3,
+        "fields": {
+            "user": 3,
+            "bio": "This is a bio."
+        }
+    },
+    {
+        "model": "raterprojectapi.rater",
+        "pk": 4,
+        "fields": {
+            "user": 4,
+            "bio": "This is a bio."
+        }
+    },
+    {
+        "model": "raterprojectapi.rater",
+        "pk": 5,
+        "fields": {
+            "user": 5,
+            "bio": "This is a bio."
+        }
+    },
+    {
+        "model": "raterprojectapi.rater",
+        "pk": 6,
+        "fields": {
+            "user": 6,
+            "bio": "This is a bio."
+        }
+    },
+    {
+        "model": "raterprojectapi.rater",
+        "pk": 7,
+        "fields": {
+            "user": 7,
+            "bio": "This is a bio."
+        }
+    },
+    {
+        "model": "raterprojectapi.rater",
+        "pk": 8,
+        "fields": {
+            "user": 8,
+            "bio": "This is a bio."
+        }
+    },
+    {
+        "model": "raterprojectapi.rater",
+        "pk": 9,
+        "fields": {
+            "user": 9,
+            "bio": "This is a bio."
+        }
+    },
+    {
+        "model": "raterprojectapi.rater",
+        "pk": 10,
+        "fields": {
+            "user": 10,
+            "bio": "This is a bio."
+        }
+    }
+]

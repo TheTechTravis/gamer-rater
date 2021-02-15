@@ -1,0 +1,92 @@
+[
+    {
+        "model": "raterprojectapi.review",
+        "pk": 1,
+        "fields": {
+            "game": 1,
+            "rater": 1,
+            "content": 5
+        }
+    },
+    {
+        "model": "raterprojectapi.review",
+        "pk": 2,
+        "fields": {
+            "game": 2,
+            "rater": 2,
+            "content": 5
+        }
+    },
+    {
+        "model": "raterprojectapi.review",
+        "pk": 3,
+        "fields": {
+            "game": 3,
+            "rater": 3,
+            "content": 5
+        }
+    },
+    {
+        "model": "raterprojectapi.review",
+        "pk": 4,
+        "fields": {
+            "game": 4,
+            "rater": 4,
+            "content": 5
+        }
+    },
+    {
+        "model": "raterprojectapi.review",
+        "pk": 5,
+        "fields": {
+            "game": 5,
+            "rater": 5,
+            "content": 5
+        }
+    },
+    {
+        "model": "raterprojectapi.review",
+        "pk": 6,
+        "fields": {
+            "game": 6,
+            "rater": 6,
+            "content": 5
+        }
+    },
+    {
+        "model": "raterprojectapi.review",
+        "pk": 7,
+        "fields": {
+            "game": 7,
+            "rater": 7,
+            "content": 5
+        }
+    },
+    {
+        "model": "raterprojectapi.review",
+        "pk": 8,
+        "fields": {
+            "game": 8,
+            "rater": 8,
+            "content": 5
+        }
+    },
+    {
+        "model": "raterprojectapi.review",
+        "pk": 9,
+        "fields": {
+            "game": 9,
+            "rater": 9,
+            "content": 5
+        }
+    },
+    {
+        "model": "raterprojectapi.review",
+        "pk": 10,
+        "fields": {
+            "game": 10,
+            "rater": 10,
+            "content": 5
+        }
+    }
+]

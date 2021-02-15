@@ -1,0 +1,142 @@
+[
+    {
+        "model": "raterprojectapi.game",
+        "pk": 1,
+        "fields": {
+            "rater": 1,
+            "title": "Game Title",
+            "description": "Description Goes Here",
+            "designer": "Designer Goes Here",
+            "year": 2021,
+            "player_count": 1,
+            "duration": 1,
+            "age": 8
+        }
+    },
+    {
+        "model": "raterprojectapi.game",
+        "pk": 2,
+        "fields": {
+            "rater": 1,
+            "title": "Game Title",
+            "description": "Description Goes Here",
+            "designer": "Designer Goes Here",
+            "year": 2021,
+            "player_count": 1,
+            "duration": 1,
+            "age": 8
+        }
+    },
+    {
+        "model": "raterprojectapi.game",
+        "pk": 3,
+        "fields": {
+            "rater": 2,
+            "title": "Game Title",
+            "description": "Description Goes Here",
+            "designer": "Designer Goes Here",
+            "year": 2021,
+            "player_count": 1,
+            "duration": 1,
+            "age": 8
+        }
+    },
+    {
+        "model": "raterprojectapi.game",
+        "pk": 4,
+        "fields": {
+            "rater": 2,
+            "title": "Game Title",
+            "description": "Description Goes Here",
+            "designer": "Designer Goes Here",
+            "year": 2021,
+            "player_count": 1,
+            "duration": 1,
+            "age": 8
+        }
+    },
+    {
+        "model": "raterprojectapi.game",
+        "pk": 5,
+        "fields": {
+            "rater": 3,
+            "title": "Game Title",
+            "description": "Description Goes Here",
+            "designer": "Designer Goes Here",
+            "year": 2021,
+            "player_count": 1,
+            "duration": 1,
+            "age": 8
+        }
+    },
+    {
+        "model": "raterprojectapi.game",
+        "pk": 6,
+        "fields": {
+            "rater": 3,
+            "title": "Game Title",
+            "description": "Description Goes Here",
+            "designer": "Designer Goes Here",
+            "year": 2021,
+            "player_count": 1,
+            "duration": 1,
+            "age": 8
+        }
+    },
+    {
+        "model": "raterprojectapi.game",
+        "pk": 7,
+        "fields": {
+            "rater": 4,
+            "title": "Game Title",
+            "description": "Description Goes Here",
+            "designer": "Designer Goes Here",
+            "year": 2021,
+            "player_count": 1,
+            "duration": 1,
+            "age": 8
+        }
+    },
+    {
+        "model": "raterprojectapi.game",
+        "pk": 8,
+        "fields": {
+            "rater": 4,
+            "title": "Game Title",
+            "description": "Description Goes Here",
+            "designer": "Designer Goes Here",
+            "year": 2021,
+            "player_count": 1,
+            "duration": 1,
+            "age": 8
+        }
+    },
+    {
+        "model": "raterprojectapi.game",
+        "pk": 9,
+        "fields": {
+            "rater": 5,
+            "title": "Game Title",
+            "description": "Description Goes Here",
+            "designer": "Designer Goes Here",
+            "year": 2021,
+            "player_count": 1,
+            "duration": 1,
+            "age": 8
+        }
+    },
+    {
+        "model": "raterprojectapi.game",
+        "pk": 10,
+        "fields": {
+            "rater": 5,
+            "title": "Game Title",
+            "description": "Description Goes Here",
+            "designer": "Designer Goes Here",
+            "year": 2021,
+            "player_count": 1,
+            "duration": 1,
+            "age": 8
+        }
+    }
+]
